@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Sarthak
+### Hi there <!--![image](https://user-images.githubusercontent.com/84329174/161420069-4f0aac40-7e73-4cac-a72a-8ec3666057c7.png), I'm Sarthak
 
-<!--
+<!--![image](https://user-images.githubusercontent.com/84329174/161420069-4f0aac40-7e73-4cac-a72a-8ec3666057c7.png)
+
 **sarthak0527/sarthak0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
